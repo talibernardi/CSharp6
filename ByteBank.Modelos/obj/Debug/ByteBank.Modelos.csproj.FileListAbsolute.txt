@@ -1,0 +1,7 @@
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\talita.silva\source\repos\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
