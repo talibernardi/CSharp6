@@ -46,13 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Comparadores\ComparadorContaCorrentePorAgencia.cs" />
     <Compile Include="Estagiario.cs" />
     <Compile Include="ExtratorValorDeArgumentosURL.cs" />
     <Compile Include="Lista.cs" />
     <Compile Include="ListaDeCliente.cs" />
     <Compile Include="ListaDeContaCorrente.cs" />
     <Compile Include="ListaDeObject.cs" />
-    <Compile Include="ListExtensoes.cs" />
+    <Compile Include="Extensoes\ListExtensoes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
